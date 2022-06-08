@@ -1,14 +1,14 @@
 //general/global css
 
 body {
-	background: linear-gradient(90deg, #0b748f, #1bc368);
+	background: var(--clr-primary-900);
 	min-height: 100vh;
 }
 
 //shows when selecting text with mouse
 ::selection {
-	@include text_color_all(var(--clr-secondary), var(--clr-primary-400));
-	fill: var(--clr-secondary);
+	@include text_color_all(var(--clr-slate-200), var(--clr-primary-600));
+	fill: var(--clr-slate-200);
 }
 
 mark {

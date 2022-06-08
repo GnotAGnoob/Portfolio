@@ -49,6 +49,11 @@
 
 - install: "pnpm add react react-dom"
 
+### Node
+
+- its so that it is possible to use require
+- install: "pnpm add -D @types/node"
+
 ### css-loader
 
 - install: "pnpm add -D css-loader"

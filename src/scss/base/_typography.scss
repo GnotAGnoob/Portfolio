@@ -1,5 +1,5 @@
 * {
-	color: white;
+	color: var(--clr-primary-100);
 }
 
 body,
@@ -51,7 +51,16 @@ button {
 }
 
 a {
-	@include hover($hover: var(--clr-primary-200));
+	@include hover($hover: var(--clr-accent-200));
+
+	& path {
+		transition: 200ms fill;
+	}
+
+	&:hover path {
+		fill: var(--clr-accent-200);
+		transition: 200ms fill;
+	}
 }
 
 h1 {
