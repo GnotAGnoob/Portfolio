@@ -1,0 +1,13 @@
+@import "abstracts/breakpoint", "abstracts/spacing", "abstracts/font",
+	"abstracts/color", "abstracts/mixin", "abstracts/keyframe",
+	"abstracts/animation", "abstracts/other-variable";
+
+@tailwind base;
+
+@import "base/root", "base/reset", "base/font-face", "base/typography",
+	"base/base", "base/scrollbar", "base/scaling";
+
+@tailwind components;
+@tailwind utilities;
+
+@import "utilities/animation";
