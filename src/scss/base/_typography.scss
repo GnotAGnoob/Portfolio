@@ -50,7 +50,8 @@ button {
 	font-weight: 500;
 }
 
-a {
+a,
+.primary-hover {
 	@include hover($hover: var(--clr-accent-200));
 
 	& path {

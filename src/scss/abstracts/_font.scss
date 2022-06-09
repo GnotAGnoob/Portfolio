@@ -13,9 +13,9 @@ $variables: map-merge(
 		--font-secondary: (Oswald, Helvetica, sans-serif),
 		//text-sizes
 		--p-size: var(--text-md),
-		--h1-size: var(--text-4xl),
-		--h2-size: var(--text-2xl),
-		--h3-size: var(--text-xl),
+		--h1-size: var(--text-3xl),
+		--h2-size: var(--text-xl),
+		--h3-size: var(--text-lg),
 		--a-size: var(--text-md),
 		--nav-size: var(--text-2xs),
 		//important for this to be in em
