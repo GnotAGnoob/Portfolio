@@ -19,7 +19,7 @@ export const DataPortfolio = [
 	{
 		title: "Ultra Protocol",
 		description:
-			"	V tomto projektu jsem tvořil celé HTML, (S)CSS a Javascript podle dodaného grafického návrhu. Projekt obsahoval relativně spoustu animací. Bohužel tento projekt je již zrušený, tak na něho odkazuji pomocí wayback machine.",
+			"	V tomto projektu jsem tvořil celé HTML, (S)CSS a Javascript podle dodaného grafického návrhu. Projekt obsahoval relativně spoustu animací. Bohužel tento projekt je již neaktivní, tak na něho odkazuji pomocí wayback machine.",
 		image: ultrap,
 		alt: "Náhled Ultra Protocol",
 		link: "https://web.archive.org/web/20211022115446/https://ultraprotocol.io/",
@@ -27,7 +27,7 @@ export const DataPortfolio = [
 	{
 		title: "Green Light Equity",
 		description:
-			"	Webová stránka dělaná ve Wordpressu, jelikož klient potřeboval dashboard pro přidávání blogových článků. Celá stránka (kromě grafu) je psaná ručně a následně vloženy do Worpressu za použití HTML, (S)CSS a Javascriptu.",
+			"	Webová stránka dělaná ve Wordpressu, jelikož klient potřeboval dashboard pro přidávání blogových článků. Celá stránka (kromě grafu) je psaná ručně a následně vložena do Worpressu za použití HTML, (S)CSS a Javascriptu.",
 		image: gleq,
 		alt: "Náhled Gleq",
 		link: "https://gleq.eu/en/",
@@ -35,7 +35,7 @@ export const DataPortfolio = [
 	{
 		title: "Uslugiru",
 		description:
-			"	Projekt také vytvořen pomocí Wordpressu. Stejně jako předchozích projektech je hlavní stránka psaná ručně.",
+			"	Projekt také vytvořen pomocí Wordpressu. Stejně jako předchozí projektech je hlavní stránka psaná ručně.",
 		image: uslugiru,
 		alt: "Náhled Uslugiru",
 		link: "https://uslugiru.com/en/",
@@ -43,7 +43,7 @@ export const DataPortfolio = [
 	{
 		title: "React Testovací stránka",
 		description:
-			'	Testovací stránka bez responzivního a graficky uceleného designu. Projekt je zaměřený hlavně na použítí Reactu. Kalkulačka je vytvořena pomocí tutoriálu a sekce s "Articles" je poté dělána bez tutoriálu.',
+			'	Testovací stránka bez responzivního a graficky uceleného designu. Projekt je zaměřený hlavně na použítí Reactu. Kalkulačka je vytvořena pomocí tutoriálu a sekce s "Articles" je poté dělána samostatně.',
 		image: react,
 		alt: "Náhled školního projektu",
 		link: "https://gnotagnoob.github.io/React-Calculator/",
@@ -51,7 +51,7 @@ export const DataPortfolio = [
 	{
 		title: "Školní Projekt",
 		description:
-			"	Projekt byl tvořen v rámci školního předmětu Web Design ve skupinách po 3. Projekt byl zaměřen na využítí důležitých značek a na jejich správnou sémantickou implementaci. Požadavky pro CSS byly použití mobile-first designu a využití moderních prvků jako jsou Flex a Grid. \n 	HTML a CSS (respektive Sass) jsem tvořil já. Grafiku a obsah tvořili moji kolegové.",
+			"	Projekt byl tvořen v rámci školního předmětu Web Design ve skupinách po 3. Projekt byl zaměřen na využítí důležitých značek a na jejich správnou sémantickou implementaci. Požadavky pro CSS byly použití mobile-first přístupu a využití moderních prvků jako jsou Flex a Grid. \n 	HTML, (S)CSS jsem tvořil já. Grafiku a obsah tvořili moji kolegové.",
 		image: czu,
 		alt: "Náhled školního projektu",
 		link: "https://gnotagnoob.github.io/School-project/",

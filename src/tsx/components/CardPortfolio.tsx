@@ -19,7 +19,7 @@ export const CardPortfolio = (props: IDataPortfolio) => {
 					<h1 className="text-center capitalize">{props.title}</h1>
 					<p className="mt-6 mb-9 whitespace-pre-wrap">{props.description}</p>
 					<p className="primary-hover mt-auto text-sm">
-						Zobtazit projekt
+						Zobrazit projekt
 						<i className="ml-3 fas fa-external-link-alt"></i>
 					</p>
 				</div>
