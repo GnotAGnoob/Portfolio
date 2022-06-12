@@ -45,8 +45,8 @@ export const DataPortfolio = [
 		description:
 			'	Testovací stránka bez responzivního a graficky uceleného designu. Projekt je zaměřený hlavně na použítí Reactu. Kalkulačka je vytvořena pomocí tutoriálu a sekce s "Articles" je poté dělána samostatně.',
 		image: react,
-		alt: "Náhled školního projektu",
-		link: "https://gnotagnoob.github.io/React-Calculator/",
+		alt: "Náhled React projektu",
+		link: "https://gnotagnoob.github.io/React-Calculator/#/articles",
 	},
 	{
 		title: "Školní Projekt",
